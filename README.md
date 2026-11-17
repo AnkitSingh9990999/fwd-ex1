@@ -1,5 +1,6 @@
 # EX01 Developing a Simple Webserver
-## Date:11/11/26
+## Date:12/11/26
+## REGISTER NO. 26016361
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
@@ -122,8 +123,8 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-
-
+![alt text](<Screenshot 2026-11-03 142329.png>)
+![alt text](<Screenshot 2026-11-03 142925.png>)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
 
